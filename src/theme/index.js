@@ -10,7 +10,7 @@ const theme = createTheme({
 			paper: colors.common.white
 		},
 		primary: {
-			main: '#f44336',
+			main: '#ff0000',
 		},
 		secondary: {
 			main: '#3ea6ff',
